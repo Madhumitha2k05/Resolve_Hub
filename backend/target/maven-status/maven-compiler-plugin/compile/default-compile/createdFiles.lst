@@ -1,0 +1,12 @@
+com\resolvehub\controller\FileUploadController.class
+com\resolvehub\controller\UserController.class
+com\resolvehub\controller\IssueController.class
+com\resolvehub\entity\Issue$Status.class
+com\resolvehub\entity\Issue.class
+com\resolvehub\entity\User.class
+com\resolvehub\repository\IssueRepository.class
+com\resolvehub\repository\UserRepository.class
+com\resolvehub\config\WebConfig.class
+com\resolvehub\entity\User$Role.class
+com\resolvehub\entity\Issue$Priority.class
+com\resolvehub\BackendApplication.class
